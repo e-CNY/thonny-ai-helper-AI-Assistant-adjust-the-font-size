@@ -2,7 +2,7 @@
 thonny‑ai‑helper AI助手调整字体大小
 同目录模式，脚本和ai_helper.py放一起；自动备份ai_helper.py.bak
 功能：Ctrl+鼠标滚轮缩放AI聊天字体，字号持久保存
-视频演示：
+视频演示：https://www.bilibili.com/video/BV1Khat6BEsm
 使用说明：https://github.com/e-CNY/thonny-ai-helper-AI-Assistant-adjust-the-font-size/blob/main/README.md
 
 """
